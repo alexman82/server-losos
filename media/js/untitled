@@ -1,0 +1,4 @@
+if (xmouse > cross[0] && xmouse < width) {
+							var db=true;
+
+						} 

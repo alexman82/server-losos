@@ -1,0 +1,4 @@
+sessionStorage.setItem(key, value)
+sessionStorag.getItem(key)
+sessionStorage.removeItem(key)
+sessionStorage.clear()

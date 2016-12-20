@@ -1,0 +1,19 @@
+git init   - инициализация пустого проекта
+
+git status - 
+
+git add *
+
+git commit -m'first commit' - первый коммит
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/alexman82/losos.git
+git push -u origin master
+
+
+
+alexanders-air:lososio Alex$ git branch Alex
+alexanders-air:lososio Alex$ git checkout Alex
